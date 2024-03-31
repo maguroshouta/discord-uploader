@@ -6,8 +6,8 @@
 # セットアップ
 
 ```
-git clone https://github.com/maguroshouta/dsc-uploader.git
-cd dsc-uploader
+git clone https://github.com/maguroshouta/discord-uploader.git
+cd discord-uploader
 cp docker-compose.example.yaml docker-compose.yaml
 cp .env.example .env
 ```
